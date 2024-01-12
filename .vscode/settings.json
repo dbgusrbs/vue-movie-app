@@ -1,0 +1,14 @@
+{
+  "window.zoomLevel": 2,
+  "workbench.startupEditor": "newUntitledFile",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.tabSize": 2,
+  "emmet.variables": {
+    "lang": "ko"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  }
+}
